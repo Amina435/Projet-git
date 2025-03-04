@@ -1,0 +1,3 @@
+todo.txt
+- Terminer le projet git
+-Preparer la présentation
