@@ -1,9 +1,10 @@
 # Projet-git
+## Exo Amina 
 
-Participante 1 : Aminata
+céer le fichier à la racine le fichier
+je-suis/une_crak/voila.txt et y écrire la table de multiplixation de 2 jusquà 11
 
-Participante 2 : Yaye Gaye
+## Exo Ya Gaye 
 
-
-
-#Boss Lady
+céer le fichier à la racine le fichier
+Rothi_rk/Diam/tarkinda.txt et y écrire la table de multiplixation de 7 jusquà 11
