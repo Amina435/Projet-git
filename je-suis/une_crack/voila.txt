@@ -1,1 +1,5 @@
 Table de multiplication de 2 jusqu'à 11 mdr
+2X1 = 2
+
+
+2X11= 22
