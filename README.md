@@ -1,10 +1,12 @@
 # Projet-git
 ## Exo Amina 
 
-céer le fichier à la racine le fichier
-je-suis/une_crak/voila.txt et y écrire la table de multiplixation de 2 jusquà 11
-
+céer la branche feat-yagaye
+### commande pour créer 
+git checkout -b feature-<prenom>
+ Ensuite creer sur cette branche le fichier : docs/citations.txt et y mettre une de vos citations préférées
 ## Exo Ya Gaye 
 
-céer le fichier à la racine le fichier
-Rothi_rk/Diam/tarkinda.txt et y écrire la table de multiplixation de 7 jusquà 11
+### commande pour créer 
+git checkout -b feature-<prenom>
+ Ensuite creer sur cette branche le fichier : docs/citations.txt et y mettre une de vos citations préférées
